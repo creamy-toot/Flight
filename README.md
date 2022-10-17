@@ -1,1 +1,1 @@
-# Flight
+# just open index.html
